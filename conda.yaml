@@ -1,4 +1,4 @@
-name: OT
+name: mgw
 channels:
   - anaconda
   - conda-forge
